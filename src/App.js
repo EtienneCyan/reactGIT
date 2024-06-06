@@ -16,13 +16,13 @@ function App() {
     {
       "nombre":"Televisor",  
       "color":"Negro",
-      "marca":"Sasnumg",
+      "marca":"Samsung",
       "precio":25000
     },
     {
       "nombre":"Consola Videojuegos",  
       "color":"Negro",
-      "marca":"Nindoten",
+      "marca":"Nintendo",
       "precio":7500
     }
   ]; 
