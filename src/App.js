@@ -10,7 +10,7 @@ function App() {
   const art=[ 
     {"nombre":"Escritorio",
       "color":"Blanco",
-      "marca":"Iceoff Dotep",
+      "marca":"Oficce Depot",
       "precio":"1100"
     }, 
     {
