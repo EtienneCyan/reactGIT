@@ -10,7 +10,7 @@ function App() {
   const art=[ 
     {"nombre":"Escritorio",
       "color":"Blanco",
-      "marca":"Oficce Depot",
+      "marca":"Oficce Depotttt",
       "precio":"1100"
     }, 
     {
